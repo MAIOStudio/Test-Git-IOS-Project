@@ -1,4 +1,8 @@
 Test-Git-IOS-Project
 ====================
 
-My first repository on GitHub
+Hello, everyone!
+
+This is My first repository on GitHub!
+
+I like coding!
